@@ -1,3 +1,3 @@
 # imoveis-malone
 
-aulas do StarSer
+aulas do StarSe
