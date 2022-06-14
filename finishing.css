@@ -14,7 +14,7 @@ img {
     width: 100%;
 }
 
-header .cabecalho {
+header .cabecalho{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -54,5 +54,14 @@ header .container img{
 
 
 footer {
+    background-color: var(--cor4);
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+}
 
+footer a {
+    color: aqua;
 }
