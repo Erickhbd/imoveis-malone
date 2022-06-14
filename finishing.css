@@ -16,6 +16,19 @@ img {
     width: 100%;
 }
 
+header .cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 768px;
+    height: 80px;
+    margin: auto;
+}
+
+header nav ul{
+    display: flex;
+}
+
 header nav ul li {
     list-style: none;
 }
