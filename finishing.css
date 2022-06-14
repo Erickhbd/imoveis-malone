@@ -7,7 +7,10 @@
 /* HEADER */
 
 header {
-   background-color: var(--cor4);
+    position: fixed;
+    width: 100%;
+    background-color: var(--cor4);
+    z-index: 10;
 }
 
 img {
