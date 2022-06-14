@@ -1,6 +1,6 @@
 @media (max-width: 630px) {
 
-    .menu-button-container {
+    .menu-button-cabecalho {
         display: flex
     }
 
@@ -36,7 +36,7 @@
         text-align: center;
     }
 
-    main .container-menu img {
+    main .cabecalho-menu img {
         display: none;
     }
 
