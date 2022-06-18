@@ -41,7 +41,7 @@ p {
 header {
     position: absolute;
     width: 100%;
-    background-image: '';
+    background-color: var(--cor1);
     z-index: 10;
 }
 
